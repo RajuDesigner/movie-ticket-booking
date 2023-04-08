@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+html,
+body {
+  font-family: 'Limelight', cursive;
+
+}
 .App {
   text-align: center;
+  padding: 20px;
 }
 
 .App-logo {
@@ -36,3 +44,4 @@
     transform: rotate(360deg);
   }
 }
+
